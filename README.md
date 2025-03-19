@@ -1,8 +1,11 @@
-# comGraphics-2dGame
-# Documentación del Proyecto - Clon de Stardew Valley en Unity
-# Autor: Andres Torres Ceja
-# Fecha: 2025-03-18
-# Versión: alpha 0.1
+
+>Documentación del Proyecto - Clon de Stardew Valley en Unity
+
+>Autor: Andres Torres Ceja
+
+>Fecha: 2025-03-18
+
+>Versión: alpha 0.1
 
 # Descripción del Proyecto
 
